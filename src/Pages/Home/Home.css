@@ -1,0 +1,64 @@
+
+.contein-home {
+    margin: 60px;
+    padding: 30px;
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+}
+
+.text-home{
+   display: flex;
+   flex-direction: column;
+   justify-content:center;
+   margin-left: 60px;
+   margin-bottom: 60px;
+   margin-right: 30px;
+   max-width: 80%;
+}
+
+.img-home {
+   height: 30em;
+   margin-top: 60px;
+   z-index: 2;
+   position: relative;
+}
+
+.title-home{
+    font-size: 40px;
+}
+h4{
+    font-size: 16px;
+}
+
+.circle-3{
+    background-color: #bc3a801a;
+    position: absolute;
+    width: 480px;
+    height: 480px;
+    border-radius: 50%;
+    left: -120px;
+    bottom: 200px;
+    z-index: 1;
+}
+
+.circle-4{
+    background-color: #3457b21a;
+    position: absolute;
+    width: 500px;
+    height: 500px;
+    border-radius: 50%;
+    right: 420px;
+    top: -20px;
+    z-index: 1;
+}
+
+.circle-5{
+     background-color: #3457b21a;
+    position: absolute;
+    width: 600px;
+    height: 600px;
+    border-radius: 50%;
+    right: -360px;
+    bottom: 0px;
+}

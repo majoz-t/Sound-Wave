@@ -1,0 +1,39 @@
+.contein-join{
+    display: flex;
+    max-width:100%;
+    position: relative;
+    justify-content: space-around;
+    align-items:center;
+    margin: 60px;
+    padding: 60px;
+    gap: 50px; 
+}
+
+h2{
+    font-size: 50px;
+}
+
+.change-color{
+    color: #bd3a80;
+    font-size: 50px;
+}
+
+.circle-1{
+    background-color: #bc3a801a;
+    position: absolute;
+    width: 480px;
+    height: 480px;
+    border-radius: 50%;
+    left: -260px;
+    bottom: -80px;
+}
+
+.circle-2{
+    background-color: #3457b21a;
+    position: absolute;
+    width: 400px;
+    height: 400px;
+    border-radius: 50%;
+    top: -210px;
+    left: 110px;
+}
