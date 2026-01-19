@@ -29,6 +29,7 @@ h2{
 }
 
 .circle-2{
+    z-index: -1;
     background-color: #3457b21a;
     position: absolute;
     width: 400px;

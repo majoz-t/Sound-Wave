@@ -1,0 +1,25 @@
+.contein-footer{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.links{
+    display: flex;
+    justify-content: space-between;
+    gap: 15px;
+}
+.logos-TyF{
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
+.facebook{
+    display: flex;
+    justify-content: space-between;
+    gap: 8px;
+}
+.twitter{
+    display: flex;
+    justify-content: space-between;
+     gap: 8px;
+}
